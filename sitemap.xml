@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>http://ayangjia.github.io/categories/golang/</loc>
+    <loc>http://ayangjia.github.io/categories/Golang/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
   
@@ -23,17 +23,17 @@
   </url>
   
   <url>
-    <loc>http://ayangjia.github.io/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://ayangjia.github.io/post/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://ayangjia.github.io/tags/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ayangjia.github.io/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
   
